@@ -1,0 +1,8 @@
+[
+ {"category_label":"通货","items":[
+   {"item_name":"神圣石","engname":"Divine Orb","latest_sell1":200,"latest_buy1":190,"currency_unit":"e","error":false,"latest_datetime":"2026-10-22 11:00:00"},
+   {"item_name":"崇高石","engname":"Exalted Orb","latest_sell1":10,"latest_buy1":9,"currency_unit":"c","error":false,"latest_datetime":"2026-10-22 11:00:00"},
+   {"item_name":"完美崇高石","engname":"Perfect Exalted Orb","latest_sell1":15,"latest_buy1":14,"currency_unit":"e","error":false,"latest_datetime":"2026-10-22 11:00:00"}]},
+ {"category_label":"预兆","items":[
+   {"item_name":"左旋崇高预兆","engname":"Omen of Sinistral Exaltation","latest_sell1":2,"currency_unit":"d","error":true,"error_info":"模拟OCR异常","latest_datetime":"2026-10-22 11:00:00"}]}
+]

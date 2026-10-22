@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "game": "Path of Exile 2",
+  "as_of": "2026-10-22",
+  "scope_warning": "This is not an exhaustive mod-group database. Each entry applies only to the stated item class, source and effect. Unknown pairs require live research. Do not infer that all attack-speed and cast-speed stats conflict.",
+  "rules": [
+    {
+      "id": "gloves_regular_attack_speed_vs_swift_alloy_cast_speed",
+      "item_class": "Gloves",
+      "existing": {"source": "regular explicit suffix", "effect": "increased Attack Speed"},
+      "incoming": {"source": "Swift Alloy crafted suffix", "effect": "(9-12)% increased Cast Speed"},
+      "result": "incompatible_reported",
+      "planning_policy": "treat as blocked unless verified for the exact new version; do not use in a confirmed crafting path",
+      "possible_reason": "mod-family or application-specific exclusion; internal group identifier not verified",
+      "evidence_kind": "first-party user observation supplied in conversation",
+      "confidence": "reported; exact underlying group unverified",
+      "verified_patch": null,
+      "sources": [
+        "https://poe2db.tw/us/Swift_Alloy",
+        "https://poe2db.tw/cn/Gloves"
+      ]
+    },
+    {
+      "id": "ring_cast_speed_vs_swift_alloy_attack_speed",
+      "item_class": "Rings",
+      "existing": {"source": "regular explicit suffix", "effect": "increased Cast Speed"},
+      "incoming": {"source": "Swift Alloy crafted suffix", "effect": "(7-9)% increased Attack Speed"},
+      "result": "incompatible_reported",
+      "planning_policy": "remove or replace blocking cast speed before using the attack-speed alloy; recheck current patch",
+      "possible_reason": "mod family or application restriction; exact group identifier unverified",
+      "evidence_kind": "PoE2 community crafting reports, June-July 2026",
+      "confidence": "community corroboration",
+      "verified_patch": null,
+      "sources": [
+        "https://www.reddit.com/r/PathOfExile2/comments/1ua1rwc/celestial_alloy_craft/",
+        "https://www.reddit.com/r/PathOfExile2/comments/1ujli38/ring_set_complete_attack_and_resist_freaks/",
+        "https://poe2db.tw/us/Swift_Alloy"
+      ]
+    },
+    {
+      "id": "staff_existing_cast_speed_vs_transcendent_alloy_cast_speed",
+      "item_class": "Staves",
+      "existing": {"source": "regular explicit modifier", "effect": "increased Cast Speed"},
+      "incoming": {"source": "Transcendent Alloy crafted modifier", "effect": "increased Cast Speed with extra Cold Damage"},
+      "result": "incompatible_observed",
+      "planning_policy": "cannot rely on the alloy to remove the existing cast-speed mod; remove blocker first",
+      "possible_reason": "duplicate mod family; group identifier unverified",
+      "evidence_kind": "PoE2 player reported in-game rejection message in June 2026",
+      "confidence": "direct player observation, patch recheck required",
+      "verified_patch": null,
+      "sources": [
+        "https://www.reddit.com/r/PathOfExile2/comments/1u8hjzz/cast_speed_transcendent_alloy/"
+      ]
+    }
+  ]
+}

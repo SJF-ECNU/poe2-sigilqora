@@ -1,0 +1,2900 @@
+{
+  "source_kind": "extracted_game_descriptions_not_click_tests",
+  "as_of": "2026-10-22",
+  "items": {
+    "Altered Collarbone": {
+      "name": "Altered Collarbone",
+      "source_url": "https://poe2db.tw/us/Altered_Collarbone",
+      "description": [
+        "Desecrates a Rare Amulet, Ring or Belt with a chance for otherworldly modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ancient Collarbone": {
+      "name": "Ancient Collarbone",
+      "source_url": "https://poe2db.tw/us/Ancient_Collarbone",
+      "description": [
+        "Minimum Modifier Level : 40",
+        "Desecrates a Rare Amulet, Ring or Belt"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ancient Jawbone": {
+      "name": "Ancient Jawbone",
+      "source_url": "https://poe2db.tw/us/Ancient_Jawbone",
+      "description": [
+        "Minimum Modifier Level : 40",
+        "Desecrates a Rare Weapon or Quiver"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ancient Rib": {
+      "name": "Ancient Rib",
+      "source_url": "https://poe2db.tw/us/Ancient_Rib",
+      "description": [
+        "Minimum Modifier Level : 40",
+        "Desecrates a Rare Armour"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Gnawed Collarbone": {
+      "name": "Gnawed Collarbone",
+      "source_url": "https://poe2db.tw/us/Gnawed_Collarbone",
+      "description": [
+        "Maximum Item Level : 64",
+        "Desecrates a Rare Amulet, Ring or Belt"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Gnawed Jawbone": {
+      "name": "Gnawed Jawbone",
+      "source_url": "https://poe2db.tw/us/Gnawed_Jawbone",
+      "description": [
+        "Maximum Item Level : 64",
+        "Desecrates a Rare Weapon or Quiver"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Gnawed Rib": {
+      "name": "Gnawed Rib",
+      "source_url": "https://poe2db.tw/us/Gnawed_Rib",
+      "description": [
+        "Maximum Item Level : 64",
+        "Desecrates a Rare Armour"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Preserved Collarbone": {
+      "name": "Preserved Collarbone",
+      "source_url": "https://poe2db.tw/us/Preserved_Collarbone",
+      "description": [
+        "Desecrates a Rare Amulet, Ring or Belt"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Preserved Cranium": {
+      "name": "Preserved Cranium",
+      "source_url": "https://poe2db.tw/us/Preserved_Cranium",
+      "description": [
+        "Desecrates a Rare Jewel"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Preserved Jawbone": {
+      "name": "Preserved Jawbone",
+      "source_url": "https://poe2db.tw/us/Preserved_Jawbone",
+      "description": [
+        "Desecrates a Rare Weapon or Quiver"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Preserved Rib": {
+      "name": "Preserved Rib",
+      "source_url": "https://poe2db.tw/us/Preserved_Rib",
+      "description": [
+        "Desecrates a Rare Armour"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Preserved Vertebrae": {
+      "name": "Preserved Vertebrae",
+      "source_url": "https://poe2db.tw/us/Preserved_Vertebrae",
+      "description": [
+        "Desecrates a Rare Waystone"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Betrayal of Aldur": {
+      "name": "Betrayal of Aldur",
+      "source_url": "https://poe2db.tw/us/Betrayal_of_Aldur",
+      "description": [
+        "Weapon: Transforms all Fire , Cold and Lightning modifiers on the item into equivalent Chaos modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Breath of Aldur": {
+      "name": "Breath of Aldur",
+      "source_url": "https://poe2db.tw/us/Breath_of_Aldur",
+      "description": [
+        "Weapon: When socketed, transforms all Fire and Lightning modifiers to equivalent Cold modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ire of Aldur": {
+      "name": "Ire of Aldur",
+      "source_url": "https://poe2db.tw/us/Ire_of_Aldur",
+      "description": [
+        "Weapon: Transforms all Fire and Cold modifiers on the item into equivalent Lightning modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Passion of Aldur": {
+      "name": "Passion of Aldur",
+      "source_url": "https://poe2db.tw/us/Passion_of_Aldur",
+      "description": [
+        "Weapon: Transforms all Cold and Lightning modifiers on the item into equivalent Fire modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Adaptive Alloy": {
+      "name": "Adaptive Alloy",
+      "source_url": "https://poe2db.tw/us/Adaptive_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Staff : Gain (42 — 52) % of Damage as Extra Fire Damage while you are missing Runic Ward",
+        "Wand : Gain (21 — 26) % of Damage as Extra Fire Damage while you are missing Runic Ward",
+        "Sceptre : (30 — 50) % Surpassing Chance to gain a Puppet Master stack whenever you use a Command Skill",
+        "Gloves: (10 — 15) % increased Attack Speed while missing Runic Ward"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Celestial Alloy": {
+      "name": "Celestial Alloy",
+      "source_url": "https://poe2db.tw/us/Celestial_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Staff or Wand : +(142 — 188) to maximum Mana +1 to Level of all Spell Skills",
+        "Martial Weapon : +(327 — 427) to Accuracy Rating (5 — 8) % increased Attack Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Cyclonic Alloy": {
+      "name": "Cyclonic Alloy",
+      "source_url": "https://poe2db.tw/us/Cyclonic_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Body Armour: (15 — 30) % reduced Slowing Potency of Debuffs on You",
+        "Boots: (15 — 19) % increased Skill Effect Duration",
+        "Gloves: (20 — 25) % increased Duration of Damaging Ailments on Enemies",
+        "Helmet: (35 — 42) % increased Archon Buff duration"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Expansive Alloy": {
+      "name": "Expansive Alloy",
+      "source_url": "https://poe2db.tw/us/Expansive_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves: Remnants can be collected from (35 — 50) % further away",
+        "Body Armour: (35 — 50) % increased Presence Area of Effect",
+        "Helmet: (18 — 29) % increased Mana Cost Efficiency",
+        "Boots: Temporary Minion Skills have +(1 — 2) to Limit of Minions summoned"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Mystic Alloy": {
+      "name": "Mystic Alloy",
+      "source_url": "https://poe2db.tw/us/Mystic_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Helmet: Spell Skills have (10 — 15) % increased Area of Effect",
+        "Gloves: (10 — 15) % increased Area of Effect for Attacks",
+        "Boots: +(10 — 15) to Spirit",
+        "Quiver : (25 — 35) % chance to Chain an additional time",
+        "Caster Weapon : +1 to maximum number of Elemental Infusions"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Prismatic Alloy": {
+      "name": "Prismatic Alloy",
+      "source_url": "https://poe2db.tw/us/Prismatic_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves: Damage Penetrates (9 — 15) % Elemental Resistances",
+        "Martial Weapon : (20 — 30) % increased Magnitude of Ailments you inflict",
+        "Focus , Staff or Wand : (40 — 50) % increased Exposure Effect",
+        "Sceptre : Minions have (40 — 49) % increased Magnitude of Damaging Ailments"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Protective Alloy": {
+      "name": "Protective Alloy",
+      "source_url": "https://poe2db.tw/us/Protective_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Belt: Recover (32 — 45) Runic Ward when a Charm is used",
+        "Weapons: +(51 — 74) to maximum Runic Ward",
+        "Shield : Recover (10 — 15) Runic Ward when you Block"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Runic Alloy": {
+      "name": "Runic Alloy",
+      "source_url": "https://poe2db.tw/us/Runic_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Ring: +(37 — 49) to maximum Runic Ward",
+        "Amulet: (6 — 10) % increased maximum Runic Ward",
+        "Belt: (15 — 20) % increased Runic Ward Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Sovereign Alloy": {
+      "name": "Sovereign Alloy",
+      "source_url": "https://poe2db.tw/us/Sovereign_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Weapons: (20 — 30) % increased effect of Socketed Augment Items",
+        "Armour : (24 — 30) % increased Runic Ward",
+        "Jewellery or Belt: (20 — 30) % increased Explicit Resistance Modifier magnitudes"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Swift Alloy": {
+      "name": "Swift Alloy",
+      "source_url": "https://poe2db.tw/us/Swift_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves: (9 — 12) % increased Cast Speed",
+        "Ring: (7 — 9) % increased Attack Speed",
+        "Belt: Flasks gain (0.75 — 1) charges per Second",
+        "Shield or Focus : (30 — 49) % increased Totem Placement speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "The Runebinder's Alloy": {
+      "name": "The Runebinder's Alloy",
+      "source_url": "https://poe2db.tw/us/The_Runebinders_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Staff : (25 — 50) % chance to gain Nature's Archon when your Plants Overgrow",
+        "Wand : +1 to Limit for Elemental Skills",
+        "Sceptre : + (4 — 5) maximum stacks of Puppet Master",
+        "Crossbow : +2 to maximum number of Summoned Ballista Totems",
+        "Bow : (40 — 50) % increased Effect of your Mark Skills"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "The Runefather's Alloy": {
+      "name": "The Runefather's Alloy",
+      "source_url": "https://poe2db.tw/us/The_Runefathers_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Mace : (60 — 75) % chance for Skills to retain 40% of Glory on use",
+        "Quarterstaff : Tempest Bells are destroyed after an additional (4 — 5) Hits",
+        "Spear : +(8 — 10) to Weapon Range",
+        "Talisman : Lightning Damage from Hits also Contributes to Flammability and Ignite Magnitudes"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Transcendent Alloy": {
+      "name": "Transcendent Alloy",
+      "source_url": "https://poe2db.tw/us/Transcendent_Alloy",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Staff : (39 — 47) % increased Cast Speed Gain (11 — 16) % of Elemental Damage as Extra Cold Damage",
+        "Focus or Wand : (26 — 31) % increased Cast Speed Gain (7 — 11) % of Elemental Damage as Extra Cold Damage",
+        "Martial Weapon : (15 — 20) % increased Physical Damage +(7 — 10) to all Attributes"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Citaqualotl's Thesis": {
+      "name": "Citaqualotl's Thesis",
+      "source_url": "https://poe2db.tw/us/Citaqualotls_Thesis",
+      "description": [
+        "Limited to: 1 Ancient Augment",
+        "Body Armours : You Recoup 50 % of Damage taken by your Offerings as Life",
+        "Gloves : One of your Persistent Minions revives when an Offering expires",
+        "Boots : Sacrifice 10 % of maximum Life to gain that much Guard when you Dodge Roll"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Guatelitzi's Thesis": {
+      "name": "Guatelitzi's Thesis",
+      "source_url": "https://poe2db.tw/us/Guatelitzis_Thesis",
+      "description": [
+        "Limited to: 1 Ancient Augment",
+        "Helmets : Gain Armour equal to 35 % of Life Lost from Hits in the past 8 seconds",
+        "Body Armours : 10 % of Physical Damage prevented Recouped as Life",
+        "Boots : Lose 5 % of maximum Life per second while Sprinting, 25 % increased Movement Speed while Sprinting"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Jiquani's Thesis": {
+      "name": "Jiquani's Thesis",
+      "source_url": "https://poe2db.tw/us/Jiquanis_Thesis",
+      "description": [
+        "Limited to: 1 Ancient Augment",
+        "Helmets : +1 to maximum Mana per 3 Item Armour on Equipped Helmet",
+        "Gloves : Energy Shield Recharge starts after spending a total of 2000 Mana, no more than once every 2 seconds",
+        "Boots : Increases and Reductions to Movement Speed also apply to Energy Shield Recharge Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Quipolatl's Thesis": {
+      "name": "Quipolatl's Thesis",
+      "source_url": "https://poe2db.tw/us/Quipolatls_Thesis",
+      "description": [
+        "Limited to: 1 Ancient Augment",
+        "Helmets : A random Skill that requires Glory generates 50 % of its maximum Glory when your Marks Activate",
+        "Gloves : Your Energy Shield Recharge starts when your Minions are Reformed",
+        "Body Armours : +75 % of Armour also applies to Chaos Damage while on full Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Adept Rune": {
+      "name": "Adept Rune",
+      "source_url": "https://poe2db.tw/us/Adept_Rune",
+      "description": [
+        "All Equipment: +9 to Dexterity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Body Rune": {
+      "name": "Body Rune",
+      "source_url": "https://poe2db.tw/us/Body_Rune",
+      "description": [
+        "Martial Weapon : Leeches 4 % of Physical Damage as Life",
+        "Wand or Staff: +40 to maximum Energy Shield",
+        "Armour: +45 to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Charging Rune": {
+      "name": "Charging Rune",
+      "source_url": "https://poe2db.tw/us/Charging_Rune",
+      "description": [
+        "Armour: 12 % increased Runic Ward Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Desert Rune": {
+      "name": "Desert Rune",
+      "source_url": "https://poe2db.tw/us/Desert_Rune",
+      "description": [
+        "Martial Weapon : Adds 7 to 11 Fire Damage",
+        "Wand or Staff: Gain 8 % of Damage as Extra Fire Damage",
+        "Armour: +14 % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Glacial Rune": {
+      "name": "Glacial Rune",
+      "source_url": "https://poe2db.tw/us/Glacial_Rune",
+      "description": [
+        "Martial Weapon : Adds 6 to 10 Cold Damage",
+        "Wand or Staff: Gain 8 % of Damage as Extra Cold Damage",
+        "Armour: +14 % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Adept Rune": {
+      "name": "Greater Adept Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Adept_Rune",
+      "description": [
+        "All Equipment: +12 to Dexterity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Body Rune": {
+      "name": "Greater Body Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Body_Rune",
+      "description": [
+        "Martial Weapon : Leeches 5 % of Physical Damage as Life",
+        "Wand or Staff: +50 to maximum Energy Shield",
+        "Armour: +60 to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Charging Rune": {
+      "name": "Greater Charging Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Charging_Rune",
+      "description": [
+        "Armour: 16 % increased Runic Ward Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Desert Rune": {
+      "name": "Greater Desert Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Desert_Rune",
+      "description": [
+        "Martial Weapon : Adds 13 to 16 Fire Damage",
+        "Wand or Staff: Gain 10 % of Damage as Extra Fire Damage",
+        "Armour: +18 % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Glacial Rune": {
+      "name": "Greater Glacial Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Glacial_Rune",
+      "description": [
+        "Martial Weapon : Adds 9 to 15 Cold Damage",
+        "Wand or Staff: Gain 10 % of Damage as Extra Cold Damage",
+        "Armour: +18 % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Inspiration Rune": {
+      "name": "Greater Inspiration Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Inspiration_Rune",
+      "description": [
+        "Martial Weapon : Gain 30 Mana per enemy killed",
+        "Wand or Staff: 30 % increased Mana Regeneration Rate",
+        "Armour: 18 % increased Mana Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Iron Rune": {
+      "name": "Greater Iron Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Iron_Rune",
+      "description": [
+        "Martial Weapon : 18 % increased Physical Damage",
+        "Wand or Staff: 30 % increased Spell Damage",
+        "Armour: 18 % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Mind Rune": {
+      "name": "Greater Mind Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Mind_Rune",
+      "description": [
+        "Martial Weapon : Leeches 4 % of Physical Damage as Mana",
+        "Wand or Staff: +75 to maximum Mana",
+        "Armour: +40 to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Rebirth Rune": {
+      "name": "Greater Rebirth Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Rebirth_Rune",
+      "description": [
+        "Martial Weapon : Gain 35 Life per enemy killed",
+        "Wand or Staff: 10 % increased Energy Shield Recharge Rate",
+        "Armour: Regenerate 0.45 % of maximum Life per second"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Resolve Rune": {
+      "name": "Greater Resolve Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Resolve_Rune",
+      "description": [
+        "All Equipment: +12 to Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Robust Rune": {
+      "name": "Greater Robust Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Robust_Rune",
+      "description": [
+        "All Equipment: +12 to Strength"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Stone Rune": {
+      "name": "Greater Stone Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Stone_Rune",
+      "description": [
+        "Martial Weapon : Causes 40 % increased Stun Buildup",
+        "Wand or Staff: Gain additional Stun Threshold equal to 14 % of maximum Energy Shield",
+        "Armour: +100 to Stun Threshold"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Storm Rune": {
+      "name": "Greater Storm Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Storm_Rune",
+      "description": [
+        "Martial Weapon : Adds 1 to 30 Lightning Damage",
+        "Wand or Staff: Gain 10 % of Damage as Extra Lightning Damage",
+        "Armour: +18 % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Tempered Rune": {
+      "name": "Greater Tempered Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Tempered_Rune",
+      "description": [
+        "Martial Weapon : Adds 9 to 12 Physical Damage",
+        "Armour: 31 to 52 Physical Thorns damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Vision Rune": {
+      "name": "Greater Vision Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Vision_Rune",
+      "description": [
+        "Martial Weapon : +120 to Accuracy Rating",
+        "Wand or Staff: 24 % increased Critical Hit Chance for Spells",
+        "Armour: 16 % increased Life and Mana Recovery from Flasks"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Ward Rune": {
+      "name": "Greater Ward Rune",
+      "source_url": "https://poe2db.tw/us/Greater_Ward_Rune",
+      "description": [
+        "Armour: +25 to maximum Runic Ward"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Inspiration Rune": {
+      "name": "Inspiration Rune",
+      "source_url": "https://poe2db.tw/us/Inspiration_Rune",
+      "description": [
+        "Martial Weapon : Gain 20 Mana per enemy killed",
+        "Wand or Staff: 25 % increased Mana Regeneration Rate",
+        "Armour: 15 % increased Mana Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Iron Rune": {
+      "name": "Iron Rune",
+      "source_url": "https://poe2db.tw/us/Iron_Rune",
+      "description": [
+        "Martial Weapon : 16 % increased Physical Damage",
+        "Wand or Staff: 25 % increased Spell Damage",
+        "Armour: 16 % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Adept Rune": {
+      "name": "Lesser Adept Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Adept_Rune",
+      "description": [
+        "All Equipment: +6 to Dexterity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Body Rune": {
+      "name": "Lesser Body Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Body_Rune",
+      "description": [
+        "Martial Weapon : Leeches 3 % of Physical Damage as Life",
+        "Wand or Staff: +30 to maximum Energy Shield",
+        "Armour: +30 to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Charging Rune": {
+      "name": "Lesser Charging Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Charging_Rune",
+      "description": [
+        "Armour: 8 % increased Runic Ward Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Desert Rune": {
+      "name": "Lesser Desert Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Desert_Rune",
+      "description": [
+        "Martial Weapon : Adds 4 to 6 Fire Damage",
+        "Wand or Staff: Gain 6 % of Damage as Extra Fire Damage",
+        "Armour: +10 % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Glacial Rune": {
+      "name": "Lesser Glacial Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Glacial_Rune",
+      "description": [
+        "Martial Weapon : Adds 3 to 5 Cold Damage",
+        "Wand or Staff: Gain 6 % of Damage as Extra Cold Damage",
+        "Armour: +10 % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Inspiration Rune": {
+      "name": "Lesser Inspiration Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Inspiration_Rune",
+      "description": [
+        "Martial Weapon : Gain 10 Mana per enemy killed",
+        "Wand or Staff: 20 % increased Mana Regeneration Rate",
+        "Armour: 12 % increased Mana Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Iron Rune": {
+      "name": "Lesser Iron Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Iron_Rune",
+      "description": [
+        "Martial Weapon : 14 % increased Physical Damage",
+        "Wand or Staff: 20 % increased Spell Damage",
+        "Armour: 14 % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Mind Rune": {
+      "name": "Lesser Mind Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Mind_Rune",
+      "description": [
+        "Martial Weapon : Leeches 2 % of Physical Damage as Mana",
+        "Wand or Staff: +45 to maximum Mana",
+        "Armour: +20 to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Rebirth Rune": {
+      "name": "Lesser Rebirth Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Rebirth_Rune",
+      "description": [
+        "Martial Weapon : Gain 15 Life per enemy killed",
+        "Wand or Staff: 6 % increased Energy Shield Recharge Rate",
+        "Armour: Regenerate 0.35 % of maximum Life per second"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Resolve Rune": {
+      "name": "Lesser Resolve Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Resolve_Rune",
+      "description": [
+        "All Equipment: +6 to Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Robust Rune": {
+      "name": "Lesser Robust Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Robust_Rune",
+      "description": [
+        "All Equipment: +6 to Strength"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Stone Rune": {
+      "name": "Lesser Stone Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Stone_Rune",
+      "description": [
+        "Martial Weapon : Causes 20 % increased Stun Buildup",
+        "Wand or Staff: Gain additional Stun Threshold equal to 10 % of maximum Energy Shield",
+        "Armour: +50 to Stun Threshold"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Storm Rune": {
+      "name": "Lesser Storm Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Storm_Rune",
+      "description": [
+        "Martial Weapon : Adds 1 to 10 Lightning Damage",
+        "Wand or Staff: Gain 6 % of Damage as Extra Lightning Damage",
+        "Armour: +10 % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Tempered Rune": {
+      "name": "Lesser Tempered Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Tempered_Rune",
+      "description": [
+        "Martial Weapon : Adds 3 to 4 Physical Damage",
+        "Armour: 6 to 9 Physical Thorns damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Vision Rune": {
+      "name": "Lesser Vision Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Vision_Rune",
+      "description": [
+        "Martial Weapon : +60 to Accuracy Rating",
+        "Wand or Staff: 16 % increased Critical Hit Chance for Spells",
+        "Armour: 8 % increased Life and Mana Recovery from Flasks"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Ward Rune": {
+      "name": "Lesser Ward Rune",
+      "source_url": "https://poe2db.tw/us/Lesser_Ward_Rune",
+      "description": [
+        "Armour: +15 to maximum Runic Ward"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Mind Rune": {
+      "name": "Mind Rune",
+      "source_url": "https://poe2db.tw/us/Mind_Rune",
+      "description": [
+        "Martial Weapon : Leeches 3 % of Physical Damage as Mana",
+        "Wand or Staff: +60 to maximum Mana",
+        "Armour: +30 to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Adept Rune": {
+      "name": "Perfect Adept Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Adept_Rune",
+      "description": [
+        "All Equipment: +15 to Dexterity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Body Rune": {
+      "name": "Perfect Body Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Body_Rune",
+      "description": [
+        "Martial Weapon : Leeches 6 % of Physical Damage as Life",
+        "Wand or Staff: +60 to maximum Energy Shield",
+        "Armour: +75 to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Charging Rune": {
+      "name": "Perfect Charging Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Charging_Rune",
+      "description": [
+        "Armour: 20 % increased Runic Ward Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Desert Rune": {
+      "name": "Perfect Desert Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Desert_Rune",
+      "description": [
+        "Martial Weapon : Adds 17 to 20 Fire Damage",
+        "Wand or Staff: Gain 12 % of Damage as Extra Fire Damage",
+        "Armour: +22 % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Glacial Rune": {
+      "name": "Perfect Glacial Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Glacial_Rune",
+      "description": [
+        "Martial Weapon : Adds 16 to 20 Cold Damage",
+        "Wand or Staff: Gain 12 % of Damage as Extra Cold Damage",
+        "Armour: +22 % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Inspiration Rune": {
+      "name": "Perfect Inspiration Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Inspiration_Rune",
+      "description": [
+        "Martial Weapon : Gain 40 Mana per enemy killed",
+        "Wand or Staff: 35 % increased Mana Regeneration Rate",
+        "Armour: 21 % increased Mana Regeneration Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Iron Rune": {
+      "name": "Perfect Iron Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Iron_Rune",
+      "description": [
+        "Martial Weapon : 20 % increased Physical Damage",
+        "Wand or Staff: 35 % increased Spell Damage",
+        "Armour: 20 % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Mind Rune": {
+      "name": "Perfect Mind Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Mind_Rune",
+      "description": [
+        "Martial Weapon : Leeches 5 % of Physical Damage as Mana",
+        "Wand or Staff: +90 to maximum Mana",
+        "Armour: +50 to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Rebirth Rune": {
+      "name": "Perfect Rebirth Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Rebirth_Rune",
+      "description": [
+        "Martial Weapon : Gain 45 Life per enemy killed",
+        "Wand or Staff: 12 % increased Energy Shield Recharge Rate",
+        "Armour: Regenerate 0.5 % of maximum Life per second"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Resolve Rune": {
+      "name": "Perfect Resolve Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Resolve_Rune",
+      "description": [
+        "All Equipment: +15 to Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Robust Rune": {
+      "name": "Perfect Robust Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Robust_Rune",
+      "description": [
+        "All Equipment: +15 to Strength"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Stone Rune": {
+      "name": "Perfect Stone Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Stone_Rune",
+      "description": [
+        "Martial Weapon : Causes 50 % increased Stun Buildup",
+        "Wand or Staff: Gain additional Stun Threshold equal to 16 % of maximum Energy Shield",
+        "Armour: +125 to Stun Threshold"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Storm Rune": {
+      "name": "Perfect Storm Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Storm_Rune",
+      "description": [
+        "Martial Weapon : Adds 1 to 40 Lightning Damage",
+        "Wand or Staff: Gain 12 % of Damage as Extra Lightning Damage",
+        "Armour: +22 % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Vision Rune": {
+      "name": "Perfect Vision Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Vision_Rune",
+      "description": [
+        "Martial Weapon : +150 to Accuracy Rating",
+        "Wand or Staff: 28 % increased Critical Hit Chance for Spells",
+        "Armour: 20 % increased Life and Mana Recovery from Flasks"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Ward Rune": {
+      "name": "Perfect Ward Rune",
+      "source_url": "https://poe2db.tw/us/Perfect_Ward_Rune",
+      "description": [
+        "Armour: +30 to maximum Runic Ward"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Rebirth Rune": {
+      "name": "Rebirth Rune",
+      "source_url": "https://poe2db.tw/us/Rebirth_Rune",
+      "description": [
+        "Martial Weapon : Gain 25 Life per enemy killed",
+        "Wand or Staff: 8 % increased Energy Shield Recharge Rate",
+        "Armour: Regenerate 0.4 % of maximum Life per second"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Resolve Rune": {
+      "name": "Resolve Rune",
+      "source_url": "https://poe2db.tw/us/Resolve_Rune",
+      "description": [
+        "All Equipment: +9 to Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Robust Rune": {
+      "name": "Robust Rune",
+      "source_url": "https://poe2db.tw/us/Robust_Rune",
+      "description": [
+        "All Equipment: +9 to Strength"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Stone Rune": {
+      "name": "Stone Rune",
+      "source_url": "https://poe2db.tw/us/Stone_Rune",
+      "description": [
+        "Martial Weapon : Causes 30 % increased Stun Buildup",
+        "Wand or Staff: Gain additional Stun Threshold equal to 12 % of maximum Energy Shield",
+        "Armour: +75 to Stun Threshold"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Storm Rune": {
+      "name": "Storm Rune",
+      "source_url": "https://poe2db.tw/us/Storm_Rune",
+      "description": [
+        "Martial Weapon : Adds 1 to 20 Lightning Damage",
+        "Wand or Staff: Gain 8 % of Damage as Extra Lightning Damage",
+        "Armour: +14 % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Tempered Rune": {
+      "name": "Tempered Rune",
+      "source_url": "https://poe2db.tw/us/Tempered_Rune",
+      "description": [
+        "Martial Weapon : Adds 6 to 9 Physical Damage",
+        "Armour: 14 to 21 Physical Thorns damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vision Rune": {
+      "name": "Vision Rune",
+      "source_url": "https://poe2db.tw/us/Vision_Rune",
+      "description": [
+        "Martial Weapon : +90 to Accuracy Rating",
+        "Wand or Staff: 20 % increased Critical Hit Chance for Spells",
+        "Armour: 12 % increased Life and Mana Recovery from Flasks"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ward Rune": {
+      "name": "Ward Rune",
+      "source_url": "https://poe2db.tw/us/Ward_Rune",
+      "description": [
+        "Armour: +20 to maximum Runic Ward"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Adaptive Catalyst": {
+      "name": "Adaptive Catalyst",
+      "source_url": "https://poe2db.tw/us/Adaptive_Catalyst",
+      "description": [
+        "Adds quality that enhances Attribute modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Carapace Catalyst": {
+      "name": "Carapace Catalyst",
+      "source_url": "https://poe2db.tw/us/Carapace_Catalyst",
+      "description": [
+        "Adds quality that enhances Armour , Evasion and Energy Shield modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Chayula's Catalyst": {
+      "name": "Chayula's Catalyst",
+      "source_url": "https://poe2db.tw/us/Chayulas_Catalyst",
+      "description": [
+        "Adds quality that enhances Chaos modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Esh's Catalyst": {
+      "name": "Esh's Catalyst",
+      "source_url": "https://poe2db.tw/us/Eshs_Catalyst",
+      "description": [
+        "Adds quality that enhances Lightning modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Flesh Catalyst": {
+      "name": "Flesh Catalyst",
+      "source_url": "https://poe2db.tw/us/Flesh_Catalyst",
+      "description": [
+        "Adds quality that enhances Life modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Necrotic Catalyst": {
+      "name": "Necrotic Catalyst",
+      "source_url": "https://poe2db.tw/us/Necrotic_Catalyst",
+      "description": [
+        "Adds quality that enhances Minion modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Neural Catalyst": {
+      "name": "Neural Catalyst",
+      "source_url": "https://poe2db.tw/us/Neural_Catalyst",
+      "description": [
+        "Adds quality that enhances Mana modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Reaver Catalyst": {
+      "name": "Reaver Catalyst",
+      "source_url": "https://poe2db.tw/us/Reaver_Catalyst",
+      "description": [
+        "Adds quality that enhances Attack modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Adaptive Catalyst": {
+      "name": "Refined Adaptive Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Adaptive_Catalyst",
+      "description": [
+        "Adds quality that enhances Attribute modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Carapace Catalyst": {
+      "name": "Refined Carapace Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Carapace_Catalyst",
+      "description": [
+        "Adds quality that enhances Armour , Evasion and Energy Shield modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Chayula's Catalyst": {
+      "name": "Refined Chayula's Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Chayulas_Catalyst",
+      "description": [
+        "Adds quality that enhances Chaos modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Esh's Catalyst": {
+      "name": "Refined Esh's Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Eshs_Catalyst",
+      "description": [
+        "Adds quality that enhances Lightning modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Flesh Catalyst": {
+      "name": "Refined Flesh Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Flesh_Catalyst",
+      "description": [
+        "Adds quality that enhances Life modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Necrotic Catalyst": {
+      "name": "Refined Necrotic Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Necrotic_Catalyst",
+      "description": [
+        "Adds quality that enhances Minion modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Neural Catalyst": {
+      "name": "Refined Neural Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Neural_Catalyst",
+      "description": [
+        "Adds quality that enhances Mana modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Reaver Catalyst": {
+      "name": "Refined Reaver Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Reaver_Catalyst",
+      "description": [
+        "Adds quality that enhances Attack modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Sibilant Catalyst": {
+      "name": "Refined Sibilant Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Sibilant_Catalyst",
+      "description": [
+        "Adds quality that enhances Caster modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Skittering Catalyst": {
+      "name": "Refined Skittering Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Skittering_Catalyst",
+      "description": [
+        "Adds quality that enhances Speed modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Tul's Catalyst": {
+      "name": "Refined Tul's Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Tuls_Catalyst",
+      "description": [
+        "Adds quality that enhances Cold modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Uul-Netol's Catalyst": {
+      "name": "Refined Uul-Netol's Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Uul-Netols_Catalyst",
+      "description": [
+        "Adds quality that enhances Physical modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Xoph's Catalyst": {
+      "name": "Refined Xoph's Catalyst",
+      "source_url": "https://poe2db.tw/us/Refined_Xophs_Catalyst",
+      "description": [
+        "Adds quality that enhances Fire modifiers on a jewel Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Sibilant Catalyst": {
+      "name": "Sibilant Catalyst",
+      "source_url": "https://poe2db.tw/us/Sibilant_Catalyst",
+      "description": [
+        "Adds quality that enhances Caster modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Skittering Catalyst": {
+      "name": "Skittering Catalyst",
+      "source_url": "https://poe2db.tw/us/Skittering_Catalyst",
+      "description": [
+        "Adds quality that enhances Speed modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Tul's Catalyst": {
+      "name": "Tul's Catalyst",
+      "source_url": "https://poe2db.tw/us/Tuls_Catalyst",
+      "description": [
+        "Adds quality that enhances Cold modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Uul-Netol's Catalyst": {
+      "name": "Uul-Netol's Catalyst",
+      "source_url": "https://poe2db.tw/us/Uul-Netols_Catalyst",
+      "description": [
+        "Adds quality that enhances Physical modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Xoph's Catalyst": {
+      "name": "Xoph's Catalyst",
+      "source_url": "https://poe2db.tw/us/Xophs_Catalyst",
+      "description": [
+        "Adds quality that enhances Fire modifiers on a ring or amulet Replaces other quality types"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Arcanist's Etcher": {
+      "name": "Arcanist's Etcher",
+      "source_url": "https://poe2db.tw/us/Arcanists_Etcher",
+      "description": [
+        "Improves the quality of a wand, staff or sceptre"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Armourer's Scrap": {
+      "name": "Armourer's Scrap",
+      "source_url": "https://poe2db.tw/us/Armourers_Scrap",
+      "description": [
+        "Improves the quality of an armour"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Artificer's Orb": {
+      "name": "Artificer's Orb",
+      "source_url": "https://poe2db.tw/us/Artificers_Orb",
+      "description": [
+        "Adds an Augment Socket to a Martial Weapon , wand, staff or Armour"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Blacksmith's Whetstone": {
+      "name": "Blacksmith's Whetstone",
+      "source_url": "https://poe2db.tw/us/Blacksmiths_Whetstone",
+      "description": [
+        "Improves the quality of a martial weapon"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Chaos Orb": {
+      "name": "Chaos Orb",
+      "source_url": "https://poe2db.tw/us/Chaos_Orb",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Divine Orb": {
+      "name": "Divine Orb",
+      "source_url": "https://poe2db.tw/us/Divine_Orb",
+      "description": [
+        "Randomises the numeric values of modifiers on an item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Exalted Orb": {
+      "name": "Exalted Orb",
+      "source_url": "https://poe2db.tw/us/Exalted_Orb",
+      "description": [
+        "Augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Fracturing Orb": {
+      "name": "Fracturing Orb",
+      "source_url": "https://poe2db.tw/us/Fracturing_Orb",
+      "description": [
+        "Fracture a random modifier on a rare item with at least 4 modifiers, locking it in place."
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Gemcutter's Prism": {
+      "name": "Gemcutter's Prism",
+      "source_url": "https://poe2db.tw/us/Gemcutters_Prism",
+      "description": [
+        "Improves the quality of a Skill Gem"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Glassblower's Bauble": {
+      "name": "Glassblower's Bauble",
+      "source_url": "https://poe2db.tw/us/Glassblowers_Bauble",
+      "description": [
+        "Improves the quality of a flask"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Chaos Orb": {
+      "name": "Greater Chaos Orb",
+      "source_url": "https://poe2db.tw/us/Greater_Chaos_Orb",
+      "description": [
+        "Minimum Modifier Level : 35",
+        "Removes a random modifier and augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Exalted Orb": {
+      "name": "Greater Exalted Orb",
+      "source_url": "https://poe2db.tw/us/Greater_Exalted_Orb",
+      "description": [
+        "Minimum Modifier Level : 35",
+        "Augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Jeweller's Orb": {
+      "name": "Greater Jeweller's Orb",
+      "source_url": "https://poe2db.tw/us/Greater_Jewellers_Orb",
+      "description": [
+        "Sets a Skill Gem to have 4 Support Gem Sockets"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Orb of Augmentation": {
+      "name": "Greater Orb of Augmentation",
+      "source_url": "https://poe2db.tw/us/Greater_Orb_of_Augmentation",
+      "description": [
+        "Minimum Modifier Level : 44",
+        "Augments a Magic item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Orb of Transmutation": {
+      "name": "Greater Orb of Transmutation",
+      "source_url": "https://poe2db.tw/us/Greater_Orb_of_Transmutation",
+      "description": [
+        "Minimum Modifier Level : 44",
+        "Upgrades a Normal item to a Magic item with 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Regal Orb": {
+      "name": "Greater Regal Orb",
+      "source_url": "https://poe2db.tw/us/Greater_Regal_Orb",
+      "description": [
+        "Minimum Modifier Level : 35",
+        "Upgrades a Magic item to a Rare item, adding 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Hinekora's Lock": {
+      "name": "Hinekora's Lock",
+      "source_url": "https://poe2db.tw/us/Hinekoras_Lock",
+      "description": [
+        "Allows an item to foresee the result of the next Currency item used on it Modifying the item in any way removes the ability to foresee"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Jeweller's Orb": {
+      "name": "Lesser Jeweller's Orb",
+      "source_url": "https://poe2db.tw/us/Lesser_Jewellers_Orb",
+      "description": [
+        "Sets a Skill Gem to have 3 Support Gem Sockets"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Mirror of Kalandra": {
+      "name": "Mirror of Kalandra",
+      "source_url": "https://poe2db.tw/us/Mirror_of_Kalandra",
+      "description": [
+        "Creates a Mirrored copy of an item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Alchemy": {
+      "name": "Orb of Alchemy",
+      "source_url": "https://poe2db.tw/us/Orb_of_Alchemy",
+      "description": [
+        "Upgrades a Normal or Magic item to a Rare item with 4 random modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Annulment": {
+      "name": "Orb of Annulment",
+      "source_url": "https://poe2db.tw/us/Orb_of_Annulment",
+      "description": [
+        "Removes a random modifier from an item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Augmentation": {
+      "name": "Orb of Augmentation",
+      "source_url": "https://poe2db.tw/us/Orb_of_Augmentation",
+      "description": [
+        "Augments a Magic item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Chance": {
+      "name": "Orb of Chance",
+      "source_url": "https://poe2db.tw/us/Orb_of_Chance",
+      "description": [
+        "Unpredictably either upgrades a Normal item to Unique rarity or destroys it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Transmutation": {
+      "name": "Orb of Transmutation",
+      "source_url": "https://poe2db.tw/us/Orb_of_Transmutation",
+      "description": [
+        "Upgrades a Normal item to a Magic item with 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Chaos Orb": {
+      "name": "Perfect Chaos Orb",
+      "source_url": "https://poe2db.tw/us/Perfect_Chaos_Orb",
+      "description": [
+        "Minimum Modifier Level : 50",
+        "Removes a random modifier and augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Exalted Orb": {
+      "name": "Perfect Exalted Orb",
+      "source_url": "https://poe2db.tw/us/Perfect_Exalted_Orb",
+      "description": [
+        "Minimum Modifier Level : 50",
+        "Augments a Rare item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Jeweller's Orb": {
+      "name": "Perfect Jeweller's Orb",
+      "source_url": "https://poe2db.tw/us/Perfect_Jewellers_Orb",
+      "description": [
+        "Sets a Skill Gem to have 5 Support Gem Sockets"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Orb of Augmentation": {
+      "name": "Perfect Orb of Augmentation",
+      "source_url": "https://poe2db.tw/us/Perfect_Orb_of_Augmentation",
+      "description": [
+        "Minimum Modifier Level : 70",
+        "Augments a Magic item with a new random modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Orb of Transmutation": {
+      "name": "Perfect Orb of Transmutation",
+      "source_url": "https://poe2db.tw/us/Perfect_Orb_of_Transmutation",
+      "description": [
+        "Minimum Modifier Level : 70",
+        "Upgrades a Normal item to a Magic item with 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Regal Orb": {
+      "name": "Perfect Regal Orb",
+      "source_url": "https://poe2db.tw/us/Perfect_Regal_Orb",
+      "description": [
+        "Minimum Modifier Level : 50",
+        "Upgrades a Magic item to a Rare item, adding 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Regal Orb": {
+      "name": "Regal Orb",
+      "source_url": "https://poe2db.tw/us/Regal_Orb",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding 1 modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Scroll of Wisdom": {
+      "name": "Scroll of Wisdom",
+      "source_url": "https://poe2db.tw/us/Scroll_of_Wisdom",
+      "description": [
+        "Identifies an item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Orb": {
+      "name": "Vaal Orb",
+      "source_url": "https://poe2db.tw/us/Vaal_Orb",
+      "description": [
+        "Modifies an item unpredictably and Corrupts it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Abrasion": {
+      "name": "Essence of Abrasion",
+      "source_url": "https://poe2db.tw/us/Essence_of_Abrasion",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (10 — 15) to (18 — 26) Physical Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (14 — 21) to (25 — 37) Physical Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Alacrity": {
+      "name": "Essence of Alacrity",
+      "source_url": "https://poe2db.tw/us/Essence_of_Alacrity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (17 — 20) % increased Cast Speed",
+        "Staff : (26 — 31) % increased Cast Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Battle": {
+      "name": "Essence of Battle",
+      "source_url": "https://poe2db.tw/us/Essence_of_Battle",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon : +(124 — 167) to Accuracy Rating"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Command": {
+      "name": "Essence of Command",
+      "source_url": "https://poe2db.tw/us/Essence_of_Command",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Sceptre : Allies in your Presence deal (55 — 64) % increased Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Electricity": {
+      "name": "Essence of Electricity",
+      "source_url": "https://poe2db.tw/us/Essence_of_Electricity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (1 — 3) to (55 — 60) Lightning Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (1 — 4) to (80 — 88) Lightning Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Enhancement": {
+      "name": "Essence of Enhancement",
+      "source_url": "https://poe2db.tw/us/Essence_of_Enhancement",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour : (56 — 67) % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Flames": {
+      "name": "Essence of Flames",
+      "source_url": "https://poe2db.tw/us/Essence_of_Flames",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (20 — 24) to (32 — 37) Fire Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (30 — 37) to (45 — 56) Fire Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Grounding": {
+      "name": "Essence of Grounding",
+      "source_url": "https://poe2db.tw/us/Essence_of_Grounding",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(21 — 25) % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Haste": {
+      "name": "Essence of Haste",
+      "source_url": "https://poe2db.tw/us/Essence_of_Haste",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Melee Weapon : (17 — 19) % increased Attack Speed",
+        "Bow or Crossbow : (11 — 13) % increased Attack Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Ice": {
+      "name": "Essence of Ice",
+      "source_url": "https://poe2db.tw/us/Essence_of_Ice",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (17 — 20) to (26 — 32) Cold Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (25 — 30) to (38 — 46) Cold Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Insulation": {
+      "name": "Essence of Insulation",
+      "source_url": "https://poe2db.tw/us/Essence_of_Insulation",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(21 — 25) % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Opulence": {
+      "name": "Essence of Opulence",
+      "source_url": "https://poe2db.tw/us/Essence_of_Opulence",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Boots, Gloves, Helmet or Jewellery : (11 — 14) % increased Rarity of Items found"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Ruin": {
+      "name": "Essence of Ruin",
+      "source_url": "https://poe2db.tw/us/Essence_of_Ruin",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(8 — 11) % to Chaos Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Seeking": {
+      "name": "Essence of Seeking",
+      "source_url": "https://poe2db.tw/us/Essence_of_Seeking",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon : +(2.11 — 2.7) % to Critical Hit Chance",
+        "Focus or Wand : (40 — 46) % increased Critical Hit Chance for Spells",
+        "Staff : (60 — 69) % increased Critical Hit Chance for Spells"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Sorcery": {
+      "name": "Essence of Sorcery",
+      "source_url": "https://poe2db.tw/us/Essence_of_Sorcery",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (55 — 64) % increased Spell Damage",
+        "Staff : (109 — 128) % increased Spell Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Thawing": {
+      "name": "Essence of Thawing",
+      "source_url": "https://poe2db.tw/us/Essence_of_Thawing",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(21 — 25) % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of the Body": {
+      "name": "Essence of the Body",
+      "source_url": "https://poe2db.tw/us/Essence_of_the_Body",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Belt, Body Armour, Helmet or Shield : +(85 — 99) to maximum Life",
+        "Amulet, Boots, Gloves or Ring: +(70 — 84) to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of the Infinite": {
+      "name": "Essence of the Infinite",
+      "source_url": "https://poe2db.tw/us/Essence_of_the_Infinite",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Equipment : +(17 — 20) to Strength , Dexterity or Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of the Mind": {
+      "name": "Essence of the Mind",
+      "source_url": "https://poe2db.tw/us/Essence_of_the_Mind",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Belt, Boots, Gloves or Helmet: +(65 — 79) to maximum Mana",
+        "Jewellery : +(80 — 89) to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Abrasion": {
+      "name": "Greater Essence of Abrasion",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Abrasion",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (16 — 24) to (28 — 42) Physical Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (23 — 35) to (39 — 59) Physical Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Alacrity": {
+      "name": "Greater Essence of Alacrity",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Alacrity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (25 — 28) % increased Cast Speed",
+        "Staff : (38 — 43) % increased Cast Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Battle": {
+      "name": "Greater Essence of Battle",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Battle",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon , Gloves or Quiver : +(237 — 346) to Accuracy Rating"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Command": {
+      "name": "Greater Essence of Command",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Command",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Sceptre : Allies in your Presence deal (75 — 89) % increased Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Electricity": {
+      "name": "Greater Essence of Electricity",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Electricity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (1 — 6) to (85 — 107) Lightning Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (1 — 8) to (128 — 162) Lightning Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Enhancement": {
+      "name": "Greater Essence of Enhancement",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Enhancement",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour : (68 — 79) % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Flames": {
+      "name": "Greater Essence of Flames",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Flames",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (35 — 44) to (56 — 71) Fire Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (56 — 70) to (84 — 107) Fire Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Grounding": {
+      "name": "Greater Essence of Grounding",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Grounding",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(31 — 35) % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Haste": {
+      "name": "Greater Essence of Haste",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Haste",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Melee Weapon : (23 — 25) % increased Attack Speed",
+        "Bow or Crossbow : (14 — 16) % increased Attack Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Ice": {
+      "name": "Greater Essence of Ice",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Ice",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (31 — 38) to (47 — 59) Cold Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (46 — 57) to (70 — 88) Cold Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Insulation": {
+      "name": "Greater Essence of Insulation",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Insulation",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(31 — 35) % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Opulence": {
+      "name": "Greater Essence of Opulence",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Opulence",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Boots, Gloves, Helmet or Jewellery : (15 — 18) % increased Rarity of Items found"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Ruin": {
+      "name": "Greater Essence of Ruin",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Ruin",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(16 — 19) % to Chaos Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Seeking": {
+      "name": "Greater Essence of Seeking",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Seeking",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon : +(3.11 — 3.8) % to Critical Hit Chance",
+        "Focus or Wand : (47 — 53) % increased Critical Hit Chance for Spells",
+        "Staff : (70 — 79) % increased Critical Hit Chance for Spells"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Sorcery": {
+      "name": "Greater Essence of Sorcery",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Sorcery",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (75 — 89) % increased Spell Damage",
+        "Staff : (149 — 188) % increased Spell Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of Thawing": {
+      "name": "Greater Essence of Thawing",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_Thawing",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(31 — 35) % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of the Body": {
+      "name": "Greater Essence of the Body",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_the_Body",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Belt, Body Armour, Helmet or Shield : +(100 — 119) to maximum Life",
+        "Amulet, Boots or Gloves: +(85 — 99) to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of the Infinite": {
+      "name": "Greater Essence of the Infinite",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_the_Infinite",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Equipment : +(25 — 27) to Strength , Dexterity or Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Greater Essence of the Mind": {
+      "name": "Greater Essence of the Mind",
+      "source_url": "https://poe2db.tw/us/Greater_Essence_of_the_Mind",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Belt, Boots, Gloves or Helmet: +(80 — 89) to maximum Mana",
+        "Jewellery : +(90 — 104) to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Abrasion": {
+      "name": "Lesser Essence of Abrasion",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Abrasion",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (4 — 6) to (7 — 11) Physical Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (5 — 8) to (10 — 15) Physical Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Alacrity": {
+      "name": "Lesser Essence of Alacrity",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Alacrity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (13 — 16) % increased Cast Speed",
+        "Staff : (20 — 25) % increased Cast Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Battle": {
+      "name": "Lesser Essence of Battle",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Battle",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon : +(61 — 84) to Accuracy Rating"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Command": {
+      "name": "Lesser Essence of Command",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Command",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Sceptre : Allies in your Presence deal (35 — 44) % increased Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Electricity": {
+      "name": "Lesser Essence of Electricity",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Electricity",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds 1 to (13 — 19) Lightning Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (1 — 2) to (19 — 27) Lightning Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Enhancement": {
+      "name": "Lesser Essence of Enhancement",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Enhancement",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour : (27 — 42) % increased Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Flames": {
+      "name": "Lesser Essence of Flames",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Flames",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (4 — 6) to (7 — 10) Fire Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (6 — 9) to (10 — 16) Fire Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Grounding": {
+      "name": "Lesser Essence of Grounding",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Grounding",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(11 — 15) % to Lightning Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Haste": {
+      "name": "Lesser Essence of Haste",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Haste",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Melee Weapon : (11 — 13) % increased Attack Speed",
+        "Bow or Crossbow : (8 — 10) % increased Attack Speed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Ice": {
+      "name": "Lesser Essence of Ice",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Ice",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Adds (3 — 5) to (6 — 9) Cold Damage",
+        "Two Handed Melee Weapon or Crossbow : Adds (5 — 8) to (9 — 14) Cold Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Insulation": {
+      "name": "Lesser Essence of Insulation",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Insulation",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(11 — 15) % to Fire Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Opulence": {
+      "name": "Lesser Essence of Opulence",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Opulence",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Boots, Gloves, Helmet or Jewellery : (6 — 10) % increased Rarity of Items found"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Ruin": {
+      "name": "Lesser Essence of Ruin",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Ruin",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(4 — 7) % to Chaos Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Seeking": {
+      "name": "Lesser Essence of Seeking",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Seeking",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Martial Weapon : +(1.51 — 2.1) % to Critical Hit Chance",
+        "Focus or Wand : (34 — 39) % increased Critical Hit Chance for Spells",
+        "Staff : (50 — 59) % increased Critical Hit Chance for Spells"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Sorcery": {
+      "name": "Lesser Essence of Sorcery",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Sorcery",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Focus or Wand : (35 — 44) % increased Spell Damage",
+        "Staff : (69 — 88) % increased Spell Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of Thawing": {
+      "name": "Lesser Essence of Thawing",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_Thawing",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour , Belt or Jewellery : +(11 — 15) % to Cold Resistance"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of the Body": {
+      "name": "Lesser Essence of the Body",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_the_Body",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Armour or Belt: +(30 — 39) to maximum Life",
+        "Jewellery : +(20 — 29) to maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of the Infinite": {
+      "name": "Lesser Essence of the Infinite",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_the_Infinite",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Equipment : +(9 — 12) to Strength , Dexterity or Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Lesser Essence of the Mind": {
+      "name": "Lesser Essence of the Mind",
+      "source_url": "https://poe2db.tw/us/Lesser_Essence_of_the_Mind",
+      "description": [
+        "Upgrades a Magic item to a Rare item, adding a guaranteed modifier",
+        "Belt, Boots, Gloves, Helmet or Jewellery : +(25 — 34) to maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Abrasion": {
+      "name": "Perfect Essence of Abrasion",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Abrasion",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Gain (15 — 20) % of Damage as Extra Physical Damage",
+        "Two Handed Melee Weapon or Crossbow : Gain (25 — 33) % of Damage as Extra Physical Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Alacrity": {
+      "name": "Perfect Essence of Alacrity",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Alacrity",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Focus or Wand : (18 — 20) % increased Mana Cost Efficiency",
+        "Staff : (28 — 32) % increased Mana Cost Efficiency"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Battle": {
+      "name": "Perfect Essence of Battle",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Battle",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "One Handed Melee Weapon or Bow : +2 to Level of all Attack Skills",
+        "Two Handed Melee Weapon or Crossbow : +3 to Level of all Attack Skills"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Command": {
+      "name": "Perfect Essence of Command",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Command",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Sceptre : Aura Skills have (15 — 20) % increased Magnitudes"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Electricity": {
+      "name": "Perfect Essence of Electricity",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Electricity",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Gain (15 — 20) % of Damage as Extra Lightning Damage",
+        "Two Handed Melee Weapon or Crossbow : Gain (25 — 33) % of Damage as Extra Lightning Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Enhancement": {
+      "name": "Perfect Essence of Enhancement",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Enhancement",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Amulet: (20 — 30) % increased Global Armour , Evasion and Energy Shield"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Flames": {
+      "name": "Perfect Essence of Flames",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Flames",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Gain (15 — 20) % of Damage as Extra Fire Damage",
+        "Two Handed Melee Weapon or Crossbow : Gain (25 — 33) % of Damage as Extra Fire Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Grounding": {
+      "name": "Perfect Essence of Grounding",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Grounding",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves: (26 — 30) % of Lightning Damage taken Recouped as Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Haste": {
+      "name": "Perfect Essence of Haste",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Haste",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Martial Weapon : (20 — 25) % chance to gain Onslaught on Killing Hits with this Weapon"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Ice": {
+      "name": "Perfect Essence of Ice",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Ice",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "One Handed Melee Weapon or Bow : Gain (15 — 20) % of Damage as Extra Cold Damage",
+        "Two Handed Melee Weapon or Crossbow : Gain (25 — 33) % of Damage as Extra Cold Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Insulation": {
+      "name": "Perfect Essence of Insulation",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Insulation",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Belt: (26 — 30) % of Fire Damage taken Recouped as Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Opulence": {
+      "name": "Perfect Essence of Opulence",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Opulence",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves: (10 — 15) % increased Quantity of Gold Dropped by Slain Enemies"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Ruin": {
+      "name": "Perfect Essence of Ruin",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Ruin",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Body Armour: (10 — 15) % of Physical Damage from Hits taken as Chaos Damage"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Seeking": {
+      "name": "Perfect Essence of Seeking",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Seeking",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Body Armour: Hits against you have (40 — 50) % reduced Critical Damage Bonus"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Sorcery": {
+      "name": "Perfect Essence of Sorcery",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Sorcery",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Wand : +3 to Level of all Spell Skills",
+        "Staff : +5 to Level of all Spell Skills"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of Thawing": {
+      "name": "Perfect Essence of Thawing",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_Thawing",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Helmet: (26 — 30) % of Cold Damage taken Recouped as Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of the Body": {
+      "name": "Perfect Essence of the Body",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_the_Body",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Body Armour: (8 — 10) % increased maximum Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of the Infinite": {
+      "name": "Perfect Essence of the Infinite",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_the_Infinite",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Amulet: (7 — 10) % increased Strength , Dexterity or Intelligence"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Essence of the Mind": {
+      "name": "Perfect Essence of the Mind",
+      "source_url": "https://poe2db.tw/us/Perfect_Essence_of_the_Mind",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Ring: (4 — 6) % increased maximum Mana"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Ancient Infuser": {
+      "name": "Ancient Infuser",
+      "source_url": "https://poe2db.tw/us/Ancient_Infuser",
+      "description": [
+        "Modifies a Tablet unpredictably and Corrupts it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Architect's Orb": {
+      "name": "Architect's Orb",
+      "source_url": "https://poe2db.tw/us/Architects_Orb",
+      "description": [
+        "Modifies a Corrupted Equipment or Jewel item unpredictably or destroys it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Core Destabiliser": {
+      "name": "Core Destabiliser",
+      "source_url": "https://poe2db.tw/us/Core_Destabiliser",
+      "description": [
+        "Modifies a Soul Core unpredictably, with a chance to destroy it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Crystallised Corruption": {
+      "name": "Crystallised Corruption",
+      "source_url": "https://poe2db.tw/us/Crystallised_Corruption",
+      "description": [
+        "Modifies a Corrupted Skill Gem unpredictably or destroys it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Orb of Extraction": {
+      "name": "Orb of Extraction",
+      "source_url": "https://poe2db.tw/us/Orb_of_Extraction",
+      "description": [
+        "Destroys an Equipment item, returning any non Socket-Bound Augments socketed in it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Sacrificial Regalia": {
+      "name": "Sacrificial Regalia",
+      "source_url": "https://poe2db.tw/us/Sacrificial_Regalia",
+      "description": [
+        "Armour : 273",
+        "Evasion Rating : 248",
+        "Energy Shield : 76",
+        "Base Movement Speed: -0.03",
+        "+1 to Level of all Corrupted Skill Gems"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Arcanist's Infuser": {
+      "name": "Vaal Arcanist's Infuser",
+      "source_url": "https://poe2db.tw/us/Vaal_Arcanists_Infuser",
+      "description": [
+        "Improves the quality of a wand, staff or sceptre, exceeding maximum quality by up to 10% with a chance of Corrupting it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Armourer's Infuser": {
+      "name": "Vaal Armourer's Infuser",
+      "source_url": "https://poe2db.tw/us/Vaal_Armourers_Infuser",
+      "description": [
+        "Improves the quality of an Armour , exceeding maximum quality by up to 10% with a chance of Corrupting it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Blacksmith's Infuser": {
+      "name": "Vaal Blacksmith's Infuser",
+      "source_url": "https://poe2db.tw/us/Vaal_Blacksmiths_Infuser",
+      "description": [
+        "Improves the quality of a Martial Weapon , exceeding maximum quality by up to 10% with a chance of Corrupting it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Catalysing Infuser": {
+      "name": "Vaal Catalysing Infuser",
+      "source_url": "https://poe2db.tw/us/Vaal_Catalysing_Infuser",
+      "description": [
+        "Improves the quality of a ring or amulet, exceeding maximum quality by up to 10% with a chance of Corrupting it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Cultivation Orb": {
+      "name": "Vaal Cultivation Orb",
+      "source_url": "https://poe2db.tw/us/Vaal_Cultivation_Orb",
+      "description": [
+        "Replaces up to 2 modifiers on a Corrupted Vaal Unique Replaces other Uniques with a Corrupted Unique of the same Item Class"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vaal Siphoner": {
+      "name": "Vaal Siphoner",
+      "source_url": "https://poe2db.tw/us/Vaal_Siphoner",
+      "description": [
+        "Adds a kill threshold to a Corrupted Rare Jewellery item, when threshold is met Siphons a random modifier and improves the numeric values of other modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Astrid's Creativity": {
+      "name": "Astrid's Creativity",
+      "source_url": "https://poe2db.tw/us/Astrids_Creativity",
+      "description": [
+        "Limited to: 1",
+        "All Equipment: Can have 1 additional Crafted Modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Cadigan's Epiphany": {
+      "name": "Cadigan's Epiphany",
+      "source_url": "https://poe2db.tw/us/Cadigans_Epiphany",
+      "description": [
+        "Limited to: 1",
+        "Gloves : Destroys all Augment Sockets on the item to create a Jewel Socket"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Serle's Triumph": {
+      "name": "Serle's Triumph",
+      "source_url": "https://poe2db.tw/us/Serles_Triumph",
+      "description": [
+        "Limited to: 1",
+        "All Equipment: +1 Suffix Modifier allowed, local maximum mods allowed + [1]"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Thrud's Might": {
+      "name": "Thrud's Might",
+      "source_url": "https://poe2db.tw/us/Thruds_Might",
+      "description": [
+        "Limited to: 1",
+        "Weapon: Can roll Destruction modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Aldur's Saga": {
+      "name": "Aldur's Saga",
+      "source_url": "https://poe2db.tw/us/Aldurs_Saga",
+      "description": [
+        "While this item is active in your inventory your next Logbook adds special modifiers to revealed Grand Expedition areas"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Medved's Saga": {
+      "name": "Medved's Saga",
+      "source_url": "https://poe2db.tw/us/Medveds_Saga",
+      "description": [
+        "While this item is active in your inventory your next Logbook guarantees a Medved encounter in the revealed Biome"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Olroth's Saga": {
+      "name": "Olroth's Saga",
+      "source_url": "https://poe2db.tw/us/Olroths_Saga",
+      "description": [
+        "While this item is active in your inventory your next Logbook guarantees an Olroth encounter in the revealed Biome"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Abyssal Echoes": {
+      "name": "Omen of Abyssal Echoes",
+      "source_url": "https://poe2db.tw/us/Omen_of_Abyssal_Echoes",
+      "description": [
+        "While this item is active in your inventory the next time you reveal Desecrated modifiers you can reroll the options once"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Amelioration": {
+      "name": "Omen of Amelioration",
+      "source_url": "https://poe2db.tw/us/Omen_of_Amelioration",
+      "description": [
+        "While this item is active in your inventory will prevent 75% of Experience loss when you die"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Answered Prayers": {
+      "name": "Omen of Answered Prayers",
+      "source_url": "https://poe2db.tw/us/Omen_of_Answered_Prayers",
+      "description": [
+        "While this item is active in your inventory the next Shrine you click on will grant an additional Effect"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Bartering": {
+      "name": "Omen of Bartering",
+      "source_url": "https://poe2db.tw/us/Omen_of_Bartering",
+      "description": [
+        "While this item is active in your inventory your next sold item's Gold value will be incorrectly assessed by the Vendor"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Catalysing Exaltation": {
+      "name": "Omen of Catalysing Exaltation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Catalysing_Exaltation",
+      "description": [
+        "While this item is active in your inventory your next Exalted Orb will consume all Catalyst Quality to increase the chance of the corresponding type of Modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Chance": {
+      "name": "Omen of Chance",
+      "source_url": "https://poe2db.tw/us/Omen_of_Chance",
+      "description": [
+        "While this item is active in your inventory your next Orb of Chance will not destroy the Item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Chaotic Effectiveness": {
+      "name": "Omen of Chaotic Effectiveness",
+      "source_url": "https://poe2db.tw/us/Omen_of_Chaotic_Effectiveness",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will replace all Modifiers on a Waystone with Modifiers that do not grant Monster Effectiveness"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Chaotic Monsters": {
+      "name": "Omen of Chaotic Monsters",
+      "source_url": "https://poe2db.tw/us/Omen_of_Chaotic_Monsters",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will replace all Modifiers on a Waystone with Modifiers that do not grant Monster Rarity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Chaotic Quantity": {
+      "name": "Omen of Chaotic Quantity",
+      "source_url": "https://poe2db.tw/us/Omen_of_Chaotic_Quantity",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will replace all Modifiers on a Waystone with Modifiers that do not grant Pack Size"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Chaotic Rarity": {
+      "name": "Omen of Chaotic Rarity",
+      "source_url": "https://poe2db.tw/us/Omen_of_Chaotic_Rarity",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will replace all Modifiers on a Waystone with Modifiers that do not grant Item Rarity"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Corruption": {
+      "name": "Omen of Corruption",
+      "source_url": "https://poe2db.tw/us/Omen_of_Corruption",
+      "description": [
+        "While this item is active in your inventory your next Vaal Orb will always result in change"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Alchemy": {
+      "name": "Omen of Dextral Alchemy",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Alchemy",
+      "description": [
+        "While this item is active in your inventory your next Orb of Alchemy will result in the maximum number of suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Annulment": {
+      "name": "Omen of Dextral Annulment",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Annulment",
+      "description": [
+        "While this item is active in your inventory your next Orb of Annulment will remove only suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Coronation": {
+      "name": "Omen of Dextral Coronation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Coronation",
+      "description": [
+        "While this item is active in your inventory your next Regal Orb will add only suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Crystallisation": {
+      "name": "Omen of Dextral Crystallisation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Crystallisation",
+      "description": [
+        "While this item is active in your inventory your next Perfect or Corrupted Essence will remove only Suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Erasure": {
+      "name": "Omen of Dextral Erasure",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Erasure",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will remove only suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Exaltation": {
+      "name": "Omen of Dextral Exaltation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Exaltation",
+      "description": [
+        "While this item is active in your inventory your next Exalted Orb will add only suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Dextral Necromancy": {
+      "name": "Omen of Dextral Necromancy",
+      "source_url": "https://poe2db.tw/us/Omen_of_Dextral_Necromancy",
+      "description": [
+        "While this item is active in your inventory your next Desecration attempt will add only suffix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Gambling": {
+      "name": "Omen of Gambling",
+      "source_url": "https://poe2db.tw/us/Omen_of_Gambling",
+      "description": [
+        "While this item is active in your inventory your next Gamble purchase will have a 50% chance of costing no Gold and not consuming this Omen"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Greater Annulment": {
+      "name": "Omen of Greater Annulment",
+      "source_url": "https://poe2db.tw/us/Omen_of_Greater_Annulment",
+      "description": [
+        "While this item is active in your inventory your next Orb of Annulment will remove two modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Greater Exaltation": {
+      "name": "Omen of Greater Exaltation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Greater_Exaltation",
+      "description": [
+        "While this item is active in your inventory your next Exalted Orb will add two random modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Homogenising Coronation": {
+      "name": "Omen of Homogenising Coronation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Homogenising_Coronation",
+      "description": [
+        "While this item is active in your inventory your next Regal Orb will add a Modifier of the same type as an existing Modifier on the Item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Homogenising Exaltation": {
+      "name": "Omen of Homogenising Exaltation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Homogenising_Exaltation",
+      "description": [
+        "While this item is active in your inventory your next Exalted Orb will add a Modifier of the same type as an existing Modifier on the Item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Light": {
+      "name": "Omen of Light",
+      "source_url": "https://poe2db.tw/us/Omen_of_Light",
+      "description": [
+        "While this item is active in your inventory your next Orb of Annulment will remove only Desecrated modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Putrefaction": {
+      "name": "Omen of Putrefaction",
+      "source_url": "https://poe2db.tw/us/Omen_of_Putrefaction",
+      "description": [
+        "While this item is active in your inventory your next Desecration attempt will replace all modifiers on the item creating an item with up to 6 Unrevealed modifiers and Corrupting the item"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Refreshment": {
+      "name": "Omen of Refreshment",
+      "source_url": "https://poe2db.tw/us/Omen_of_Refreshment",
+      "description": [
+        "While this item is active in your inventory will fully recover your flask and charm charges when you reach Low Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Reinforcements": {
+      "name": "Omen of Reinforcements",
+      "source_url": "https://poe2db.tw/us/Omen_of_Reinforcements",
+      "description": [
+        "While this item is active in your inventory the next Rogue Exile you encounter will summon an ally"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Resurgence": {
+      "name": "Omen of Resurgence",
+      "source_url": "https://poe2db.tw/us/Omen_of_Resurgence",
+      "description": [
+        "While this item is active in your inventory fully recover your Life, Mana and Energy Shield when you reach Low Life"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sanctification": {
+      "name": "Omen of Sanctification",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sanctification",
+      "description": [
+        "While this item is active in your inventory your next Divine Orb used on a Rare item will Sanctify it"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Secret Compartments": {
+      "name": "Omen of Secret Compartments",
+      "source_url": "https://poe2db.tw/us/Omen_of_Secret_Compartments",
+      "description": [
+        "While this item is active in your inventory the next Strongbox you click on will be reopenable"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Alchemy": {
+      "name": "Omen of Sinistral Alchemy",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Alchemy",
+      "description": [
+        "While this item is active in your inventory your next Orb of Alchemy will result in the maximum number of prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Annulment": {
+      "name": "Omen of Sinistral Annulment",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Annulment",
+      "description": [
+        "While this item is active in your inventory your next Orb of Annulment will remove only prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Coronation": {
+      "name": "Omen of Sinistral Coronation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Coronation",
+      "description": [
+        "While this item is active in your inventory your next Regal Orb will add only prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Crystallisation": {
+      "name": "Omen of Sinistral Crystallisation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Crystallisation",
+      "description": [
+        "While this item is active in your inventory your next Perfect or Corrupted Essence will remove only Prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Erasure": {
+      "name": "Omen of Sinistral Erasure",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Erasure",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will remove only prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Exaltation": {
+      "name": "Omen of Sinistral Exaltation",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Exaltation",
+      "description": [
+        "While this item is active in your inventory your next Exalted Orb will add only prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Sinistral Necromancy": {
+      "name": "Omen of Sinistral Necromancy",
+      "source_url": "https://poe2db.tw/us/Omen_of_Sinistral_Necromancy",
+      "description": [
+        "While this item is active in your inventory your next Desecration attempt will add only prefix modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of Whittling": {
+      "name": "Omen of Whittling",
+      "source_url": "https://poe2db.tw/us/Omen_of_Whittling",
+      "description": [
+        "While this item is active in your inventory your next Chaos Orb will remove the lowest level modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Ancients": {
+      "name": "Omen of the Ancients",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Ancients",
+      "description": [
+        "While this item is active in your inventory your next Orb of Chance will upgrade the Item to a random Unique of the same Item Class"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Blackblooded": {
+      "name": "Omen of the Blackblooded",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Blackblooded",
+      "description": [
+        "While this item is active in your inventory your next Weapon or Jewellery Desecration attempt will guarantee a random Kurgal modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Blessed": {
+      "name": "Omen of the Blessed",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Blessed",
+      "description": [
+        "While this item is active in your inventory your next Divine Orb will only reroll Implicit Modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Hunt": {
+      "name": "Omen of the Hunt",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Hunt",
+      "description": [
+        "While this item is active in your inventory the next Possessed monster you kill will Release and manifest all Azmeri Spirits"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Liege": {
+      "name": "Omen of the Liege",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Liege",
+      "description": [
+        "While this item is active in your inventory your next Weapon or Jewellery Desecration attempt will guarantee a random Amanamu modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Omen of the Sovereign": {
+      "name": "Omen of the Sovereign",
+      "source_url": "https://poe2db.tw/us/Omen_of_the_Sovereign",
+      "description": [
+        "While this item is active in your inventory your next Weapon or Jewellery Desecration attempt will guarantee a random Ulaman modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Uhtred's Saga": {
+      "name": "Uhtred's Saga",
+      "source_url": "https://poe2db.tw/us/Uhtreds_Saga",
+      "description": [
+        "While this item is active in your inventory your next Logbook guarantees an Uhtred encounter in the revealed Biome"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vorana's Saga": {
+      "name": "Vorana's Saga",
+      "source_url": "https://poe2db.tw/us/Voranas_Saga",
+      "description": [
+        "While this item is active in your inventory your next Logbook guarantees a Vorana encounter in the revealed Biome"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Katla's Gloom": {
+      "name": "Katla's Gloom",
+      "source_url": "https://poe2db.tw/us/Katlas_Gloom",
+      "description": [
+        "Limited to: 1",
+        "Gloves : Can roll Decay modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Kolr's Hunt": {
+      "name": "Kolr's Hunt",
+      "source_url": "https://poe2db.tw/us/Kolrs_Hunt",
+      "description": [
+        "Limited to: 1",
+        "Gloves : Can roll Marksman modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Medved's Tending": {
+      "name": "Medved's Tending",
+      "source_url": "https://poe2db.tw/us/Medveds_Tending",
+      "description": [
+        "Limited to: 1",
+        "Body Armours : Can roll Soul modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Uhtred's Sidereus": {
+      "name": "Uhtred's Sidereus",
+      "source_url": "https://poe2db.tw/us/Uhtreds_Sidereus",
+      "description": [
+        "Limited to: 1",
+        "Boots : Can roll Chronomancy modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Vorana's Carnage": {
+      "name": "Vorana's Carnage",
+      "source_url": "https://poe2db.tw/us/Voranas_Carnage",
+      "description": [
+        "Limited to: 1",
+        "Helmets : Can roll Berserking modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Blazing Flux": {
+      "name": "Blazing Flux",
+      "source_url": "https://poe2db.tw/us/Blazing_Flux",
+      "description": [
+        "Transforms all Cold and Lightning Resistance modifiers on an item to equivalent Fire Resistance modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Chilling Flux": {
+      "name": "Chilling Flux",
+      "source_url": "https://poe2db.tw/us/Chilling_Flux",
+      "description": [
+        "Transforms all Fire and Lightning Resistance modifiers on an item to equivalent Cold Resistance modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Crackling Flux": {
+      "name": "Crackling Flux",
+      "source_url": "https://poe2db.tw/us/Crackling_Flux",
+      "description": [
+        "Transforms all Fire and Cold Resistance modifiers on an item to equivalent Lightning Resistance modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Void Flux": {
+      "name": "Void Flux",
+      "source_url": "https://poe2db.tw/us/Void_Flux",
+      "description": [
+        "Transforms all Fire , Cold and Lightning Resistance modifiers on an item to equivalent Chaos resistance modifiers"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Masterwork Rune": {
+      "name": "Masterwork Rune",
+      "source_url": "https://poe2db.tw/us/Masterwork_Rune",
+      "description": [
+        "All Equipment: Upgrades a socketed Rune"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Aldur's Legacy": {
+      "name": "Aldur's Legacy",
+      "source_url": "https://poe2db.tw/us/Aldurs_Legacy",
+      "description": [
+        "All Equipment: When socketed into a Unique Kalguuran or Ezomyte item, destroys the item to create a Rune imbued with that item's power"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Kamasa's Orb of Sacrifice": {
+      "name": "Kamasa's Orb of Sacrifice",
+      "source_url": "https://poe2db.tw/us/Kamasas_Orb_of_Sacrifice",
+      "description": [
+        "Upgrades a Corruption Enchantment on a Rare Amulet, Ring or Belt and removes a random Modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Kopec's Orb of Sacrifice": {
+      "name": "Kopec's Orb of Sacrifice",
+      "source_url": "https://poe2db.tw/us/Kopecs_Orb_of_Sacrifice",
+      "description": [
+        "Upgrades a Corruption Enchantment on a Rare Armour and removes a random Modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Yaomac's Orb of Sacrifice": {
+      "name": "Yaomac's Orb of Sacrifice",
+      "source_url": "https://poe2db.tw/us/Yaomacs_Orb_of_Sacrifice",
+      "description": [
+        "Upgrades a Corruption Enchantment on a Rare Weapon or Quiver and removes a random Modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Yugul's Orb of Sacrifice": {
+      "name": "Yugul's Orb of Sacrifice",
+      "source_url": "https://poe2db.tw/us/Yuguls_Orb_of_Sacrifice",
+      "description": [
+        "Upgrades a Corruption Enchantment on a Rare Jewel and removes a random Modifier"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Delirium": {
+      "name": "Essence of Delirium",
+      "source_url": "https://poe2db.tw/us/Essence_of_Delirium",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Body Armour: Allocates a random Notable Passive Skill"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Horror": {
+      "name": "Essence of Horror",
+      "source_url": "https://poe2db.tw/us/Essence_of_Horror",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Gloves or Boots: 60 % increased effect of Socketed Augment Items"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Hysteria": {
+      "name": "Essence of Hysteria",
+      "source_url": "https://poe2db.tw/us/Essence_of_Hysteria",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Helmet: +1 to Level of all Minion Skills",
+        "Body Armour: (64 — 97) to (98 — 145) Physical Thorns damage",
+        "Gloves: (25 — 29) % increased Critical Damage Bonus",
+        "Boots: 30 % increased Movement Speed",
+        "Ring: (50 — 59) % increased Mana Regeneration Rate",
+        "Amulet: (19 — 21) % of Damage taken Recouped as Life",
+        "Belt: +(254 — 304) to Stun Threshold",
+        "Shield : (20 — 24) % increased Block chance",
+        "Quiver : (43 — 50) % increased Damage with Bow Skills",
+        "Focus : (20 — 23) % increased Energy Shield Recharge Rate"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of Insanity": {
+      "name": "Essence of Insanity",
+      "source_url": "https://poe2db.tw/us/Essence_of_Insanity",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Belt: On Corruption, Item gains two Enchantments"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of the Abyss": {
+      "name": "Essence of the Abyss",
+      "source_url": "https://poe2db.tw/us/Essence_of_the_Abyss",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Equipment : Mark of the Abyssal Lord"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Essence of the Breach": {
+      "name": "Essence of the Breach",
+      "source_url": "https://poe2db.tw/us/Essence_of_the_Breach",
+      "description": [
+        "Removes a random modifier and augments a Rare item with a new guaranteed modifier",
+        "Jewellery : +20 % to Maximum Quality"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Breach Ring": {
+      "name": "Breach Ring",
+      "source_url": "https://poe2db.tw/us/Breach_Ring",
+      "description": [
+        "+20 % to Maximum Quality"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Penumbra Amulet": {
+      "name": "Penumbra Amulet",
+      "source_url": "https://poe2db.tw/us/Penumbra_Amulet",
+      "description": [
+        "+2 Prefix Modifiers allowed -2 Suffix Modifiers allowed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Penumbra Ring": {
+      "name": "Penumbra Ring",
+      "source_url": "https://poe2db.tw/us/Penumbra_Ring",
+      "description": [
+        "+2 Prefix Modifiers allowed -2 Suffix Modifiers allowed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Tenebrous Amulet": {
+      "name": "Tenebrous Amulet",
+      "source_url": "https://poe2db.tw/us/Tenebrous_Amulet",
+      "description": [
+        "-2 Prefix Modifiers allowed +2 Suffix Modifiers allowed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Tenebrous Ring": {
+      "name": "Tenebrous Ring",
+      "source_url": "https://poe2db.tw/us/Tenebrous_Ring",
+      "description": [
+        "-2 Prefix Modifiers allowed +2 Suffix Modifiers allowed"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Perfect Flux": {
+      "name": "Perfect Flux",
+      "source_url": "https://poe2db.tw/us/Perfect_Flux",
+      "description": [
+        "Upgrades the Skills on an item to Level 20"
+      ],
+      "as_of": "2026-10-22"
+    },
+    "Refined Breach Ring": {
+      "name": "Refined Breach Ring",
+      "source_url": "https://poe2db.tw/us/Refined_Breach_Ring",
+      "description": [
+        "+25 % to Maximum Quality"
+      ],
+      "as_of": "2026-10-22"
+    }
+  }
+}
